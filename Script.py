@@ -9,17 +9,17 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/MohdAyan88">Its Ayan</a>
 ✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
 ✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Kᴏʏᴇʙ
-✯ CONTACT ME : <a href='https://t.me/sheffy_samra'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ PAID BOT CONTACT ME : <a href='https://t.me/sheffy_samra'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ paid ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+- <a href="https://t.me/sheffy_samra">sheffy samra</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -196,8 +196,8 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️ ᴄʜᴀɴɴᴇʟ : @anurinomoviez
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
+▫️ ᴄʜᴀɴɴᴇʟ : @EveryoneMovieAvailable
+▫️ Movies ɢʀᴏᴜᴘ : @EveryoneMovieAvailable
 </b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -206,7 +206,7 @@ Nᴀᴍᴇ - {}"""
 <b>📆 Year</b>: <a href={url}/releaseinfo>{year}</a>
 <b>🌟 Rating</b>: <a href={url}/ratings>{rating}</a>
 <b>☀️ Languages</b> : <code>{languages}</code>
-
+<b> LOVE U GUYS 😘
 <b>💙Requested by💙</b> : {message.from_user.mention}"""
     
     ALL_FILTERS = """
