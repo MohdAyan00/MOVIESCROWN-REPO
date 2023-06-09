@@ -1525,7 +1525,6 @@ async def auto_filter(client, msg, spoll=False):
             ]
 
     try:
-        req = query.from_user.id if query.from_user else 0
         if settings['auto_delete']:
             btn.insert(0, 
                 [
@@ -1568,7 +1567,7 @@ async def auto_filter(client, msg, spoll=False):
         InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/howtodownloadmoviesfree")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
+        InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{message.from_user.id}")
     ])
 
     if offset != "":
