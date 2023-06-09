@@ -1525,6 +1525,7 @@ async def auto_filter(client, msg, spoll=False):
             ]
 
     try:
+        req = query.from_user.id if query.from_user else 0
         if settings['auto_delete']:
             btn.insert(0, 
                 [
